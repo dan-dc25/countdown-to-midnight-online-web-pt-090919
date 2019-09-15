@@ -1,4 +1,4 @@
-count = 10
+count = 12
 def countdown(count)
   while count >= 0
     puts "#{count} SECOND(S)."
